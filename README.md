@@ -3,6 +3,9 @@
 
 ## Licencia de la aplicación: GPLv3
 
+### - Aplicación
+Se trata de una aplicación en php la cual se ocupa de la conversión de una cantidad de peseta a introducir por el usuario, a euros o bien a dólares según su elección. 
+
 ### - Elección del PAAS
 
 Para realiza la práctica, he elegido el Paas OpenShift de RedHat por varios motivos los cuales explico a continuación.
@@ -22,7 +25,8 @@ https://www.openshift.com/  ,
 https://www.openshift.com/
 
 
-### Configuración de cliente rhc, creación del proyecto en openshift y aplicación en openshift
+### - Configuración de cliente rhc, creación del proyecto en openshift y aplicación en openshift
+
 
 
 
