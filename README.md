@@ -43,8 +43,24 @@ $ rhc create-app  practica1 php-5.3
 
 Y como podemos observar, podemos ver la aplicación creada en:  practica1-stiago.rhcloud.com
 
-Aplicación funcionando en la página : http://practica1-stiago.rhcloud.com/
 
+Seguidamente ya en nuestra cuenta de GitHub, procedemos a crear un repositorio nuevo. Le asignaremos el nombre, público y su licencia (GPLv3).
+A continuación en nuestro terminal, haremos lo siguiente para clonar nuestro repositorio en nuestro pc y posteriormente subir los ficheros al repositorio creado:
+
+$ git clone https://github.com/STiago/Practica1.git
+
+Después he introducido mis archivos php, html y demás en la carpeta que se ha clonado en mi directorio.
+
+$ git add.
+$ git commit -a -m "Practica1IV"
+$ git push
+
+![Ej2](https://dl.dropbox.com/s/9xmzfr2kqyr8kms/ivvv.png)
+
+
+Y con ello ya estaría todo subido y actualizado en nuestro repositorio de github.
+
+Tenemos la alicación funcionando correctamente en la página : http://practica1-stiago.rhcloud.com/
 
 
 
