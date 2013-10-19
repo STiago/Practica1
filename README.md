@@ -28,15 +28,17 @@ https://www.openshift.com/
 ### - Configuración de cliente rhc, creación del proyecto en openshift y aplicación en openshift
 En primer lugar, iniciamos sesión en OpenShift, seguidamente en nuestra consola ejecutamos las siguientes líneas de comandos:
 
-$ sudo apt-get install rubygems 
-$ sudo gem install rhc
-$ sudo gem update rhc
-$ gem update rhc
-$ rhc setup
+- $ sudo apt-get install rubygems 
+- $ sudo gem install rhc
+- $ sudo gem update rhc
+- $ gem update rhc
+- $ rhc setup
 
 Seguidamente tras la última órden, nos identificaremos con nuestro correo de la cuenta de OpenShift y su contraseña para permitirle el acceso.
+Con lo anterior ya tendríamos terminada la configuración de cliente rhc, por lo que pasamos a crear nuestro proyecto.
 
-
+$ rhc create-app  practica1 php-5.3
+![Ej9](https://dl.dropbox.com/s/yqve7pft1mcjpf2/ejercicio9.png)
 
 
 
