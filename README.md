@@ -1,7 +1,7 @@
 # PRÁCTICA 1 : Creación y despliegue de una aplicación en un PaaS
 ## María Victoria Santiago Alcalá
 
-## Licencia de la aplicación 
+## Licencia de la aplicación: GPLv3
 
 ### - Elección del PAAS
 
@@ -22,12 +22,8 @@ https://www.openshift.com/  ,
 https://www.openshift.com/
 
 
-### Configuración de cliente rhc para openshift
+### Configuración de cliente rhc, creación del proyecto en openshift y aplicación en openshift
 
 
 
-### Creación del proyecto en openshift
 
-
-
-### Aplicación en openshift
