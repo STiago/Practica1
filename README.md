@@ -13,6 +13,8 @@ OpenShift también soporta programas binarios que sean aplicaciones Web, con tal
 OpenShift se encarga de mantener los servicios subyacentes a la aplicación y la escalabilidad de la aplicación como se necesite.
 
 (La información anterior sobre OpenShift ha sido optenida a partir de la Wikipedia y de la página de OpenShift)
+https://www.openshift.com/
+https://www.openshift.com/
 
 
 ### Configuración de cliente rhc para openshift
