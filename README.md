@@ -1,6 +1,8 @@
 # PRÁCTICA 1 : Creación y despliegue de una aplicación en un PaaS
 ## María Victoria Santiago Alcalá
 
+## Licencia de la aplicación 
+
 ### - Elección del PAAS
 
 Para realiza la práctica, he elegido el Paas OpenShift de RedHat por varios motivos los cuales explico a continuación.
