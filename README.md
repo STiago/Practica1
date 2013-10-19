@@ -38,7 +38,8 @@ Seguidamente tras la última órden, nos identificaremos con nuestro correo de l
 Con lo anterior ya tendríamos terminada la configuración de cliente rhc, por lo que pasamos a crear nuestro proyecto.
 
 $ rhc create-app  practica1 php-5.3
-![Ej9](https://dl.dropbox.com/s/yqve7pft1mcjpf2/ejercicio9.png)
+![Ej9](https://dl.dropbox.com/s/p14idd1hkhrayzo/practica1.2.crearapp.png)
+
 
 
 
