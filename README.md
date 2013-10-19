@@ -65,10 +65,10 @@ Tenemos la alicación funcionando correctamente en la página : http://practica1
 ![Ej3](https://dl.dropbox.com/s/43ydleoghqhxdg5/appp.png)
 
 
-### Fuentes de información
-https://www.openshift.com/get-started
-https://www.openshift.com/documentation
-http://www.php.net/manual/es/index.php
+### - Fuentes de información
+- https://www.openshift.com/get-started
+- https://www.openshift.com/documentation
+- http://www.php.net/manual/es/index.php
 
 
 
