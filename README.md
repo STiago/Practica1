@@ -26,6 +26,8 @@ https://www.openshift.com/
 
 
 ### - Configuración de cliente rhc, creación del proyecto en openshift y aplicación en openshift
+En primer lugar, iniciamos sesion en OpenShift, seguidamente en nuestra consola ejecutamos las siguientes líneas de comandos:
+
 
 
 
