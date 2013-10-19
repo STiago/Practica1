@@ -1,6 +1,6 @@
 ### Elección del PAAS
 
-Para realiza la práctica, he elegido el Paas OpenShift de RedHat por varios motivos los cuales que explico a continuación.
+Para realiza la práctica, he elegido el Paas OpenShift de RedHat por varios motivos los cuales explico a continuación.
 
 Una de las razones es porque da soporte a varios lenguajes de programación que conozco por lo que me facilita la realización de la práctica.
 
@@ -14,12 +14,13 @@ OpenShift se encarga de mantener los servicios subyacentes a la aplicación y la
 
 (La información anterior sobre OpenShift ha sido optenida a partir de la Wikipedia y de la página de OpenShift)
 
-Configuración de cliente rhc para openshift
+
+### Configuración de cliente rhc para openshift
 
 
 
-Creación del proyecto en openshift
+### Creación del proyecto en openshift
 
 
 
-Aplicación en openshift
+### Aplicación en openshift
